@@ -1,6 +1,7 @@
 # DeepLearning
 Udacity Deep Learning Nanodegree projects
 
+## About this Repository
 This repository covers all projects done and submitting during the Deep Learning Nanaodegree from Udacity.
 
 1. Basics of neural networks
@@ -21,8 +22,8 @@ This repository covers all projects done and submitting during the Deep Learning
    More info, please refer to this repo https://github.com/FairozaAmira/SageMaker-Project.
    
    
-Software requirements:
-Python 3.0 and above
+## Software requirements:
+`Python 3.0 and above
 Jupyter notebook
-Pytorch libraries
-Numpy, pandas, opencv 
+Pytorch
+NumPy, Pandas, OpenCv` 
