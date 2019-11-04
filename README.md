@@ -23,7 +23,13 @@ This repository covers all projects done and submitting during the Deep Learning
    
    
 ## Software requirements:
-`Python 3.0 and above
+```
+Python 3.0 and above
 Jupyter notebook
 Pytorch
-NumPy, Pandas, OpenCv` 
+NumPy, Pandas, OpenCv
+```
+
+## Graduation certificate
+
+[Certificate](https://confirm.udacity.com/9RTUKPD6)
